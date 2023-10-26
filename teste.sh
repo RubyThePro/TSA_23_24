@@ -1,0 +1,1 @@
+echo "Teste a execução do script"
