@@ -1,7 +1,7 @@
 # TSA_23_24
 Blackjack
 
-Rúben Gradiz
+Autor: Rúben Gradiz
 
 Simples jogo de cartas designado por Blackjack
 
