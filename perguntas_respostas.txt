@@ -1,0 +1,20 @@
+Qual jogador é conhecido como "Neymar Jr."?;Neymar da Silva Santos Júnior
+Quantas Copas do Mundo a seleção alemã de futebol já venceu?;4
+Quem é o maior marcador da história da Liga dos Campeões da UEFA?;Cristiano Ronaldo
+Qual país sediou a Copa do Mundo de 2014?;Brasil
+Quem é o atual técnico da seleção argentina de futebol?;Lionel Scaloni
+Qual jogador é conhecido como "Kun"?;Sergio Agüero
+Quem é o presidente da FIFA?;Gianni Infantino
+Qual é o clube mais antigo do Brasil?;Sport Club Rio Grande
+Quem é o treinador da seleção espanhola de futebol?;Luis de la Fuente
+Qual é o apelido da seleção nacional da Espanha?;La Roja
+Quem é o capitão da seleção portuguesa de futebol?;Cristiano Ronaldo
+Qual é o nome do troféu dado ao vencedor da Liga dos Campeões da UEFA?;Taça Henri Delaunay
+Quem é o treinador da seleção inglesa de futebol?;Gareth Southgate
+Qual é o apelido do clube FC Barcelona?;Blaugrana
+Quem é o maior marcador da história da seleção brasileira de futebol?;Pelé
+Em que ano a Copa do Mundo de futebol feminino foi realizada pela primeira vez?;1991
+Quem é o atual artilheiro da Premier League?;Mohamed Salah
+Qual jogador é conhecido como "Gigante Asiático"?;China Sunil Chhetri
+Quantas Copas do Mundo a seleção italiana de futebol já venceu?;4
+Quem é o maior marcador de todos os tempos da seleção francesa de futebol?;Thierry Henry
