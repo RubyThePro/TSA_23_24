@@ -13,6 +13,22 @@ carregar_perguntas() {
     done < perguntas_respostas.txt
 }
 
+# Função para embaralhar perguntas e respostas
+embaralhar_perguntas() {
+    indices=($(shuf -i 0-$((${#perguntas[@]}-1))))
+    perguntas=("${perguntas[@]}")
+    respostas=("${respostas[@]}")
+
+    # Aplicar a ordem aleatória aos arrays
+    for i in "${!indices[@]}"; do
+        perguntas_embaralhadas[$i]="${perguntas[${indices[$i]}]}"
+        respostas_embaralhadas[$i]="${respostas[${indices[$i]}]}"
+    done
+
+    perguntas=("${perguntas_embaralhadas[@]}")
+    respostas=("${respostas_embaralhadas[@]}")
+}
+
 # Função para executar o quiz
 executar_quiz() {
     pontuacao=0
@@ -42,4 +58,5 @@ perguntas=()
 respostas=()
 
 carregar_perguntas
+embaralhar_perguntas
 executar_quiz
